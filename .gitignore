@@ -3,7 +3,9 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=node
 
 
-/frontend_sanity/.env
+/shareme_frontend/.env
+/shareme_frontend/node_modules
+/shareme_frontend/build
 
 ### Node ###
 # Logs
